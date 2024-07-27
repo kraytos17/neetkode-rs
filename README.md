@@ -1,2 +1,3 @@
-# neetkode-rs
-Neetcode Blind 75 in Rust
+# Neetkode-rs
+
+My first Neetcode Blind 75 tryout in crablang
